@@ -1,0 +1,7 @@
+1 move from sour to dest
+2 move from sour to help
+1 move from dest to help
+3 move from sour to dest
+1 move from help to sour
+2 move from help to dest
+1 move from sour to dest
